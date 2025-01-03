@@ -7,6 +7,7 @@ public class Main {
     }
 
     static void drawChristmasTree(int height) {
+        // 색깔 상수
         String GREEN = "\u001B[32m";
         String BROWN = "\u001B[33m";
         String RED = "\u001B[31m";
